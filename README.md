@@ -5,7 +5,6 @@
 <p align="left">
 <a href="https://twitter.com/bla__vk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bla__vk" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/precious awoyemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="precious awoyemi" height="30" width="40" /></a>
-<a href="https://kaggle.com/preciousawoyemi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="preciousawoyemi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
