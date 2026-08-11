@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Precious</h1>
 <h3 align="center">A Developer and Aspiring Cloud Engineer</h3>
+Check my [project details](./main/PROJECTs.md)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
