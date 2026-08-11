@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Precious</h1>
 <h3 align="center">A Developer and Aspiring Cloud Engineer</h3>
-[project details](https://github.com/Bla-vk/bla-vk/edit/main/README.md)!
+[project details](https://github.com/Bla-vk/bla-vk/blob/main/PROJECTs.md)!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
