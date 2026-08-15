@@ -15,8 +15,12 @@ Computer Engineer building towards a career in **Cloud Engineering**, with a fou
 |---|---|
 | [Building a Virtual Private Cloud on AWS](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Building%20a%20Virtual%20Private%20Cloud) | Custom VPC with CIDR block design, public subnets, and an Internet Gateway, provisioned via both the AWS Console and AWS CLI/CloudShell. |
 | [VPC Traffic Flow and Security](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/VPC%20Traffic%20Flow%20and%20Security) | Route tables, Security Groups, and Network ACLs configured to control and secure traffic across a multi-region VPC setup. |
+| [Creating a Private Subnet](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Creating%20a%20Private%20Subnet) | Isolated private subnet with its own route table and a deny-all Network ACL baseline, replacing AWS's default allow-all ACL. |
+| [Launching VPC Resources](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Launching%20VPC%20resources) | Public and private EC2 instances deployed with SSH key pairs, tiered Security Groups, and NAT gateways for high availability. |
+| [Testing VPC Connectivity](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Testing%20VPC%20connectivity) | Diagnosed and resolved instance-to-instance and internet connectivity issues using Security Group/NACL fixes, SSH, ping, and curl. |
 | [Static Website Hosting on Amazon S3](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Host%20a%20website%20on%20S3) | Static site deployed on S3, including bucket policy and ACL configuration, and diagnosing a live 403 Forbidden error. |
 | [Cloud Security & Access Management with AWS IAM](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Cloud%20Security%20with%20AWS%20IAM) | Least-privilege IAM policy design and testing using tagged EC2 resources, IAM users and groups, and the IAM Policy Simulator. |
+
 
 ### 💻 Software Projects
 
