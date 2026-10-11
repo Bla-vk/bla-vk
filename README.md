@@ -2,51 +2,37 @@
 
 Computer Engineer building toward a career in **Cloud Engineering**, with a foundation in networking, systems administration, and Python development.
 
-- 🔭 Currently building hands-on AWS projects (VPC, EC2, S3, IAM, Aurora, DynamoDB, Terraform) and working through AWS Cloud Practitioner training
-- 🌱 Learning: cloud infrastructure, deeper Infrastructure as Code with Terraform, and backend development with Python
-- 💼 Background: live production infrastructure support at Nigeria's Airspace Management Agency (NAMA), maintaining 99% uptime on mission-critical systems
+- 🔭 Building hands-on AWS projects and learning Infrastructure as Code with Terraform
+- 💼 Live production infrastructure support at Nigeria's Airspace Management Agency (NAMA), maintaining 99% uptime on mission-critical systems
 - 📫 Reach me: pawoyemi5@gmail.com
 
 ---
 
-### ☁️ Cloud & AWS Projects
+### ☁️ Cloud Projects
 
 | Project | Description |
 |---|---|
-| [AWS Dev Environment with Terraform](https://github.com/Bla-vk/terraform-aws-dev-environment) | Independent Infrastructure as Code project: a custom VPC, public subnet, security group and Ubuntu EC2 instance created with Terraform, with Docker installed on first boot through `user_data`. Plan, apply and destroy documented with screenshots. |
-| [Building a Virtual Private Cloud on AWS](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/04-Building%20a%20Virtual%20Private%20Cloud) | Custom VPC with CIDR block design, public subnets, and an Internet Gateway, provisioned via both the AWS Console and AWS CLI/CloudShell. |
-| [VPC Traffic Flow and Security](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/VPC%20Traffic%20Flow%20and%20Security) | Route tables, Security Groups, and Network ACLs configured to control and secure traffic across a multi-region VPC setup. |
-| [Creating a Private Subnet](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Creating%20a%20Private%20Subnet) | Isolated private subnet with its own route table and a deny-all Network ACL baseline, replacing AWS's default allow-all ACL. |
-| [Launching VPC Resources](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Launching%20VPC%20Resources) | Public and private EC2 instances deployed with SSH key pairs, tiered Security Groups, and NAT gateways for high availability. |
-| [Testing VPC Connectivity](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Testing%20VPC%20Connectivity) | Diagnosed and resolved instance-to-instance and internet connectivity issues using Security Group/NACL fixes, SSH, ping, and curl. |
-| [VPC Peering](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/VPC%20Peering) | Peered two isolated VPCs for private cross-network communication, configuring route tables, Elastic IPs, and security groups. |
-| [VPC Monitoring with Flow Logs](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/VPC%20Monitoring%20with%20Flow%20Logs) | Captured and analyzed cross-VPC traffic with VPC Flow Logs, an IAM role for log delivery, and CloudWatch Logs Insights queries. |
-| [Access S3 from a VPC](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Access%20S3%20from%20a%20VPC) | Connected an EC2 instance to S3 using AWS CLI and access keys, with a documented best-practice note on IAM roles. |
-| [VPC Endpoints](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/VPC%20Endpoints) | Migrated S3 access from the public internet to a private VPC Gateway Endpoint, layering endpoint and bucket policies. |
-| [Aurora Database with EC2](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Aurora%20Database%20with%20EC2) | Deployed a fully managed, high-availability Amazon Aurora MySQL cluster connected to an EC2 instance. |
-| [Connect a Web App to Amazon Aurora](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Connect%20a%20Web%20App%20to%20Aurora) | Built a PHP web app on EC2 (Apache/MySQL) reading and writing real-time data to an Aurora database. |
-| [Load Data into DynamoDB](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Load%20Data%20into%20DynamoDB) | Created and loaded DynamoDB tables via AWS CLI, modeling data with partition and sort keys. |
-| [Query Data with DynamoDB](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Query%20Data%20with%20DynamoDB) | Queried DynamoDB by partition/sort key and ran a multi-table transactional write for atomic consistency. |
-| [Static Website Hosting on Amazon S3](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Host%20a%20website%20on%20S3) | Static site deployed on S3, including bucket policy and ACL configuration, and diagnosing a live 403 Forbidden error. |
-| [Cloud Security & Access Management with AWS IAM](https://github.com/Bla-vk/AWS-Beginner-Roadmap/tree/main/Cloud%20Security%20with%20AWS%20IAM) | Least-privilege IAM policy design and testing using tagged EC2 resources, IAM users and groups, and the IAM Policy Simulator. |
+| [AWS Beginner Roadmap](https://github.com/Bla-vk/AWS-Beginner-Roadmap) | 29 hands-on AWS projects across VPC networking, IAM and security, S3 and CloudFront, Aurora and DynamoDB, serverless, Kubernetes on EKS, and CI/CD. |
+| [AWS Dev Environment with Terraform](https://github.com/Bla-vk/terraform-aws-dev-environment) | A VPC, public subnet and Ubuntu EC2 instance created with Terraform, with Docker installed on first boot. Plan, apply and destroy documented with screenshots. |
 
 ### 💻 Software Projects
 
 | Project | Description |
 |---|---|
-| [CRUD API](https://github.com/Bla-vk/Simple-CRUD-API) | A REST API built in Python implementing full Create, Read, Update, and Delete operations. |
+| [CRUD API](https://github.com/Bla-vk/Simple-CRUD-API) | A REST API in Python with full Create, Read, Update and Delete operations. |
 | [Chatbot](https://github.com/Bla-vk/Chatbot) | A conversational chatbot built in Python. |
-| [Data Structures & Algorithms](https://github.com/Bla-vk/Data_Structures_And_Algorithm-Python) | Python implementations and practice solutions covering core data structures and algorithms. |
-| [Frontend Project](https://github.com/Bla-vk/random_frontend_projects) | A frontend project built with HTML, CSS, and JavaScript. |
+| [Data Structures & Algorithms](https://github.com/Bla-vk/Data_Structures_And_Algorithm-Python) | Core data structures and algorithms implemented in Python. |
+| [Frontend Project](https://github.com/Bla-vk/random_frontend_projects) | A frontend project built with HTML, CSS and JavaScript. |
 
 ---
 
 ### 🛠️ Tech Stack
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
